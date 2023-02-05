@@ -1,0 +1,22 @@
+.color_1{
+    background-color: rgb(189, 189, 189);
+    margin: 20px;
+    margin-top: 350px;
+}
+
+#button{
+    border: none;
+    margin: 10px;
+    margin-left: 100px;
+    padding: 2px 20px;
+}
+
+.position_1{
+    margin-left: 1200px;
+    margin-bottom: 20px;
+}
+
+#img{
+    /* margin-top: -2000px; */
+    justify-content: center;
+}

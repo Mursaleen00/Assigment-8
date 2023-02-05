@@ -1,0 +1,33 @@
+.bg_color{
+    background-color: #7D5EEA;
+}
+
+.box_shadow{
+    box-shadow: 0px 3px 20px grey;
+    background-image: url("./backgroung_1.png");
+    height: 500px;
+    width: 1000px;
+    
+}
+
+#img{
+    width: auto;
+    height: auto;
+    margin-left: 300px;
+}
+
+.position_1{
+
+    margin: 30px;
+}
+
+
+ .input_1{
+    margin: 5px;
+    width: 250px;
+    border: 1px solid gray;
+} 
+
+button{
+    background-color: #7c5eeaab;
+} 
